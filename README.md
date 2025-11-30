@@ -23,11 +23,11 @@ World: The game takes place in an unnamed dimension, on an unknown planet
 Atmosphere: Lonely, melancholic, gets more hopeful bit by bit as the colors return.
 
 4. Visual And Audio
-- Art Style: TBA
+- Art Style: Hand-drawn
 - Interface (UI): Paint bar at the side of the screen. You won't be able to paint anything if it runs out, unless you remove some of the paint from colored objects
 - Music: TBA
 - Sound Effects: TBA
 
 5. Additional Information
-- References Games: Epic Mickey
+- References Games: Epic Mickey, Kirby Canvas Curse
 - Concept Art: TBA
